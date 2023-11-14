@@ -1,0 +1,22 @@
+[
+    {
+        "id":"1",
+        "title":"Samsung s21 Ultra",
+        "features":["4k Camera Resolution","Camera Stabilization","5G Network Connectivity","Super Fast Gaming Performance","Fast Charging Support"]
+    },
+    {
+        "id":"2",
+        "title":"Iphone 14 Pro Max",
+        "features":["4k Camera Resolution","Durable Outer Shell","8000maH battery","Smooth Display"]
+    },
+    {
+        "id":"3",
+        "title":"Nokia 3310",
+        "features":["2G Network Connectivity","Durable Outer Shell","Keypad Input"]
+    },
+    {
+        "id":"4",
+        "title":"Redmi Note 13 Pro Max",
+        "features":["Camera Stabilization","Fast Charging Support","5G Network Connectivity","Affordable"]
+    }
+]
